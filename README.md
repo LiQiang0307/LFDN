@@ -8,9 +8,9 @@ Recently, deep learning-based image deblurring and deraining have been well deve
 
 
 
-![1](C:\Users\Administrator\Desktop\1.png)
+![1](.fig/1.png)
 
-![2](C:\Users\Administrator\Desktop\2.png)
+![2](.fig\2.png)
 
 ![3](C:\Users\Administrator\Desktop\3.png)
 
